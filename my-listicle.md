@@ -9,4 +9,4 @@
 
 **Honorable Mention**
 
-- [E.T] (https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(video_game)
+- [E.T] (https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(video_game))
