@@ -19,4 +19,4 @@
 
 [rit](https://www.rit.edu/)
 
-
+![an image](md-images/cassie.jpg)
